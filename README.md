@@ -45,8 +45,8 @@ Phishing / Legitimate
 
 ### Legitimate Email Detection
 
-![Legitimate Email Detection](screenshots/Image1.png)
+![Legitimate Email Detection](Image2.png)
 
 ### Phishing Email Detection
 
-![Phishing Email Detection](screenshots/Image2.png)
+![Phishing Email Detection](Image1.png)
